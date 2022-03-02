@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DichaPutra
 - 👀 I’m interested in Cat
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on web dev project
 - 📫 How to reach me @DichaPutra on Twitter or Instagram
 
 <!---
