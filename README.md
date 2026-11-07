@@ -1,6 +1,6 @@
 # Hi, I'm Dicha Putra Arwindra 👋
 
-**Backend Developer · System Analyst · AI Agent Builder** @ PT Bank Rakyat Indonesia (BRI).
+**Backend Developer · System Analyst · AI Agent Builder** 
 
 - 🔭 Currently: backend microservices (PHP Lumen/Laravel, Golang), system analysis & design, dan ngurusin AI agent pribadi (Hermes)
 - 🌱 Learning: Golang, Kubernetes, dan cara biar token API gak bocor tiap hari
